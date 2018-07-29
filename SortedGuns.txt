@@ -1,0 +1,130 @@
+PISTOLS
+
+Unforgiven
+Wanderlust
+Thunderball Fist
+Stinger
+Unkempt Harold
+Infinity
+Hornet
+Gunerang
+Infection
+Devastator
+Grog Nozzle
+Rubi
+Lady Fist
+Fibber
+Tinderbox
+__________________________________________________________
+SHOTGUNS
+
+Butcher
+Striker
+Conference Call
+Omen
+Slow Hand
+SWORDSPLOSION!!!
+Interfacer
+Twister
+Tidal Wave
+Heart Breaker
+Teeth of Teramorphous
+Dog
+__________________________________________________________
+SMGS
+
+Hellfire
+Avenger
+Slagga
+Crit
+Florentine
+Actualizer
+Chulainn
+Yellow Jacket
+Baby Maker
+Sand Hawk
+Veritas
+Bane
+__________________________________________________________
+ASSAULT RIFLES
+
+Bekah
+Hammer Buster
+Ogre
+Kerblaster
+Shredifier
+Stinkpot
+Madhous
+Boom Puppy
+Stomper
+Evil Smasher
+Chopper
+Cowboy
+Hail
+Rapier
+Kitten
+Scorpio
+__________________________________________________________
+SNIPERS
+
+Godfinger
+Storm
+Skullmasher
+Volcano
+Lyuda
+Hawk Eye
+Cobra
+Buffalo
+Pimpernel
+Longbow
+Sloth
+Morningstar
+Invader
+__________________________________________________________
+LAUNCHERS
+
+Mongol
+Nukem
+Bunny
+Badaboom
+Norfleet
+Hive
+Ahab
+Tunguska
+Pyrophobia
+ ____________________________________________________________
+SHIELDS
+
+Evolution
+Black Hole
+Cradle
+Wiskey Tango Foxtrot
+Impaler
+Bee
+Pot O' Gold
+Blockade
+Big Boom Blaster
+Antagonist
+Sham
+Sponge
+Rough Rider
+Fabled Tortoise
+ ____________________________________________________________
+GRENADES
+
+Rolling Thunder
+Fastball
+Bouncing Bonny
+Caustic Leech
+Bonus Package
+O-Negative
+Midnight Star
+Quasar
+Magic Missile
+Crossfire
+Meteor Shower
+Lightning Bolt
+Fire Bee
+Storm Front
+Breath Of Teramorphous
+Sky Rocket
